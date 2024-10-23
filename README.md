@@ -12,6 +12,7 @@ Finished B.S.Arch Course, working as BIM Engineer. Now exploring the next step, 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/threejs-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   + Zustand
 </div>
@@ -26,3 +27,4 @@ Finished B.S.Arch Course, working as BIM Engineer. Now exploring the next step, 
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkelab&layout=compact)
+![Jakkelab's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkelab)
