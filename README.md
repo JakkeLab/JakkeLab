@@ -28,5 +28,5 @@ Finished B.S.Arch Course, working as BIM Engineer. Now exploring the next step, 
 ---
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkelab&layout=compact&count_private=true)
-![Jakkelab's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkelab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkelab&layout=compact)
+![Jakkelab's GitHub stats](https://github-readme-stats-git-master-jakkelabs-projects.vercel.app/api?username=jakkelab)
