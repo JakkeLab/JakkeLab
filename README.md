@@ -23,6 +23,7 @@ Finished B.S.Arch Course, working as BIM Engineer. Now exploring the next step, 
 #### Studying
 <div>
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 
 ---
