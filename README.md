@@ -5,7 +5,7 @@ Finished B.S.Arch Course, working as BIM Engineer. Now exploring the next step, 
 ---
 
 ### Tech stacks
-#### Using on project
+#### Using at project
 <div>
   <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
